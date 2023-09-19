@@ -1,0 +1,102 @@
+body{
+    background: color #eef8f8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*classes*/
+
+.highlight{
+    color: #ff0000;
+}
+
+.reset{
+    clear:both;
+}
+
+.social{
+    float:left;
+}
+
+
+/*ID's*/
+
+/*images*/
+
+#batman{
+    float: left;
+    margin: 10px 0px 0px 40px;
+}
+
+#friends{
+    float:left;
+    border-radius:30px;
+    margin:0px 0px 0px 30px;
+}
+
+#beach{
+    float:left;
+    border-radius:30px;
+}
+
+#spotify{
+    float:left;
+}
+
+#youtube{
+    float:left;
+}
+
+#instagram{
+    float:left;
+}
+
+#steam{
+    float:left;
+}
+
+#schrimp{
+    float:left;
+}
+
+/*texts*/
+
+#text{
+    float:left;
+    margin:0px 0px 0px 122px;
+}
+
+#titel{
+    width:500px;
+    float: left;
+    margin:0px 0px 0px 44px;
+}
+
+#list{
+    float:left;
+}
+
+/*layouts*/
+
+#topBar{
+    color:#ff77ff;
+}
+
+
+/*specifics*/
+
+h1{
+    color: #6a9db9;
+}
+
+h2{
+    color: #6a9db9;
+}
+
+p{
+    color: #6a9db9;
+}
+
+li{
+    color: #6a9db9;
+}
