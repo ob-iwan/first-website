@@ -18,6 +18,14 @@ body{
     float:left;
 }
 
+.links a{
+    float:left;
+    text-decoration:none;
+    background-color:#222345;
+    padding:2px 7px 2px 7px;
+    border-radius:7px;
+    color:#6a9db9;
+}
 
 /*ID's*/
 
@@ -60,10 +68,6 @@ body{
 }
 
 /*texts*/
-
-#linkBack{
-    float:left;
-}
 
 #text{
     float:left;
